@@ -1,11 +1,11 @@
 # PHP basit proje altyapısı
 
-- [ ] Genel Yapı
-- [ ] Helpers
-- [ ] Link Yapısı
-- [ ] Veritabanı Bağlantısı
-- [ ] Controller - View - Assets
-- [ ] Basit Bir Örnek
+- [x] Genel Yapı
+- [x] Helpers - Classes
+- [x] Link Yapısı
+- [x] Veritabanı Bağlantısı
+- [x] Controller - View - Assets
+- [x] Basit Bir Örnek
 
 
 ### .htaccess
